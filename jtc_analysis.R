@@ -164,6 +164,9 @@ png(file = "JTC_01V2.png", bg = "transparent", height=5, width=9, units="in", re
 p
 dev.off()
 
+# Showing Raph on 
+
+
 
 # second individual, serial exposer
 d2 <- c(0.37,
